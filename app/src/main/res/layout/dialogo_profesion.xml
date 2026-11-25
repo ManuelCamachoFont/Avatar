@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rgProfesion"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <RadioButton
+        android:id="@+id/rbArquero"
+        style="@style/TextoDialogo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/arquero" />
+
+    <RadioButton
+        android:id="@+id/rbGuerrero"
+        style="@style/TextoDialogo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/guerrero" />
+
+    <RadioButton
+        android:id="@+id/rbMago"
+        style="@style/TextoDialogo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mago" />
+
+    <RadioButton
+        android:id="@+id/rbHerrero"
+        style="@style/TextoDialogo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/herrero" />
+</RadioGroup>

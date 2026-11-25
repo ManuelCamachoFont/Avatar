@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="pergamino">#FFF4E8C9</color>
+    <color name="cuero">#FF6B3E26</color>
+    <color name="cuero_oscuro">#FF4A2A18</color>
+    <color name="oro">#FFC9A227</color>
+    <color name="oro_claro">#FFE8C96A</color>
+    <color name="tinta">#FF2B1D12</color>
+    <color name="texto_claro">#FFFFF8E7</color>
+
+    <color name="boton_apagado">#FFB8AD9A</color>
+    <color name="texto_apagado">#FF7A6E5C</color>
+    <color name="borde_apagado">#FF9E9483</color>
+
+    <color name="fondo_recuadro">#66FFFFFF</color>
+    <color name="fondo_estadisticas">#CC2B1D12</color>
+</resources>

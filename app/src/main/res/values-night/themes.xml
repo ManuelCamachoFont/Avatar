@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- En modo oscuro se mantiene el mismo tema claro de pergamino -->
+    <style name="Base.Theme.MiAvatar" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/cuero</item>
+        <item name="colorOnPrimary">@color/pergamino</item>
+        <item name="colorSecondary">@color/oro</item>
+        <item name="colorOnSecondary">@color/tinta</item>
+        <item name="colorSurface">@color/pergamino</item>
+        <item name="colorSurfaceContainerHigh">@color/pergamino</item>
+        <item name="colorOnSurface">@color/tinta</item>
+    </style>
+</resources>

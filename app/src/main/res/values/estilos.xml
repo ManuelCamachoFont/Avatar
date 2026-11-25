@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BotonOpcion" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/selector_fondo_opcion</item>
+        <item name="android:textColor">@color/selector_texto_opcion</item>
+        <item name="strokeColor">@color/selector_borde_opcion</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:paddingStart">2dp</item>
+        <item name="android:paddingEnd">2dp</item>
+        <item name="android:layout_marginStart">3dp</item>
+        <item name="android:layout_marginEnd">3dp</item>
+    </style>
+
+    <style name="BotonPrincipal" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/oro</item>
+        <item name="android:textColor">@color/tinta</item>
+        <item name="strokeColor">@color/cuero_oscuro</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:minWidth">200dp</item>
+    </style>
+
+    <style name="TextoTitulo">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/cuero_oscuro</item>
+        <item name="android:shadowColor">@color/oro_claro</item>
+        <item name="android:shadowDx">2</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">3</item>
+    </style>
+
+    <style name="TextoEstadistica">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/texto_claro</item>
+    </style>
+
+    <style name="TextoEstadistica.Nombre">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/oro_claro</item>
+    </style>
+
+    <style name="TextoDialogo">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/tinta</item>
+    </style>
+</resources>

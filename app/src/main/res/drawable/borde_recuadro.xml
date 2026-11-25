@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Recuadro donde se muestra el avatar -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/fondo_recuadro" />
+    <stroke
+        android:width="4dp"
+        android:color="@color/cuero" />
+    <corners android:radius="12dp" />
+</shape>

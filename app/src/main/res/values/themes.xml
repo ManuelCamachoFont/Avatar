@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base: siempre claro porque el fondo es un mapa de pergamino -->
+    <style name="Base.Theme.MiAvatar" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/cuero</item>
+        <item name="colorOnPrimary">@color/pergamino</item>
+        <item name="colorSecondary">@color/oro</item>
+        <item name="colorOnSecondary">@color/tinta</item>
+        <!-- Fondo y texto de los diálogos -->
+        <item name="colorSurface">@color/pergamino</item>
+        <item name="colorSurfaceContainerHigh">@color/pergamino</item>
+        <item name="colorOnSurface">@color/tinta</item>
+    </style>
+
+    <style name="Theme.MiAvatar" parent="Base.Theme.MiAvatar" />
+</resources>

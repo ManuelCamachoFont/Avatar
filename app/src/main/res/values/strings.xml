@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Mi Avatar</string>
+
+    <string name="titulo_principal">Elige tu personaje\nen la aventura</string>
+
+    <string name="btn_nombre">Nombre</string>
+    <string name="btn_sexo">Sexo</string>
+    <string name="btn_especie">Especie</string>
+    <string name="btn_profesion">Profesión</string>
+    <string name="btn_generar">Generar</string>
+    <string name="btn_reiniciar">Reiniciar</string>
+    <string name="descripcion_avatar">Imagen del avatar</string>
+
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="titulo_nombre">¿Cómo te llamas?</string>
+    <string name="hint_nombre">Escribe aquí tu nombre</string>
+    <string name="titulo_sexo">Elige tu sexo</string>
+    <string name="titulo_especie">Elige tu especie</string>
+    <string name="titulo_profesion">Elige tu profesión</string>
+
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="elfo">Elfo</string>
+    <string name="enano">Enano</string>
+    <string name="hobbit">Hobbit</string>
+    <string name="humano">Humano</string>
+    <string name="arquero">Arquero</string>
+    <string name="guerrero">Guerrero</string>
+    <string name="mago">Mago</string>
+    <string name="herrero">Herrero</string>
+
+    <string name="error_nombre_vacio">El nombre no puede estar vacío</string>
+    <string name="error_sin_opcion">Debes elegir una opción</string>
+    <string name="faltan_campos">Faltan por seleccionar: %1$s</string>
+    <string name="separador">, </string>
+
+    <string name="vida">Vida</string>
+    <string name="magia">Magia</string>
+    <string name="fuerza">Fuerza</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="formato_estadistica">%1$s: %2$d</string>
+</resources>
